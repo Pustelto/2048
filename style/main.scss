@@ -32,7 +32,7 @@ body {
 
 body {
   margin: 80px 0;
-  background: url("/assets/pozadi.png");
+  background: url("../assets/pozadi.png");
 }
 
 .heading {
@@ -391,7 +391,7 @@ hr {
 
       // Set background
       // background: $mixed-background;
-      background: url("/assets/icons/#{$power}.png");
+      background: url("../assets/icons/#{$power}.png");
       background-position: center;
       background-size: 90%;
       background-repeat: no-repeat;
